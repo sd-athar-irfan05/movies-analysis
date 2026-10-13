@@ -21,3 +21,6 @@ and the highest-rated movie.
 3. Open the terminal in the project folder.
 4. Run:
    python analysis.py
+
+## Created By
+Syed Athar Irfan
